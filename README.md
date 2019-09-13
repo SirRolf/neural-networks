@@ -16,12 +16,12 @@ Ik ga werken met Processing. een engine voor java designed voor applicaties en g
 
 ## Planning
 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
-| | portfolio | portfolio | portfolio | portfolio | portfolio |
-| | develop basic game | use neural networks to show my population to react. use machine learning to learn it weights | continue plan of yesterday | platsen op portefolio | inleveren |
+|maandag | dinsdag | woensdag | donderdag | vrijdag |
+| --- | --- | --- | --- | --- |
+| portfolio | portfolio | portfolio | portfolio | portfolio |
+| develop basic game | use neural networks to show my population to react. use machine learning to learn it weights | continue plan of yesterday | platsen op portefolio | inleveren |
 
 ## Bronnen
 
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
-- [processing](https://processing.org/)+
+- [processing](https://processing.org/)
