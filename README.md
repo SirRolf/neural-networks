@@ -82,7 +82,7 @@ I chose to work with Processing. The only con I could think of is really a pro i
 | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- |
 | make git repo and change README.MD |making a screen with dots | Make the dots move randomly | kill a dot when it moves into a wall and let it finish in at a goal | make generations |
-| continue the plan of yesterday | Wrap up | hand in product |  |  |
+| continue work on generations | Wrap up | hand in product |  |  |
 
 
 
