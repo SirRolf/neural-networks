@@ -8,7 +8,7 @@ A machine learning program that will learn to move a dot to a goal.
 
 Processing:
 
-Pro:
+Pros:
 
 - Learning Java
 
@@ -22,7 +22,7 @@ Cons:
 
 Atom and JavaC:
 
-Pro:
+Pros:
 
 - Atoms autocorrect
 
@@ -38,7 +38,7 @@ Cons:
 
 Unity:
 
-Pro:
+Pros:
 
 - A library that allows me to display a screen fast
 
@@ -54,7 +54,7 @@ Cons:
 
 Python idle:
 
-Pro:
+Pros:
 
 - I have lots of experience
 
