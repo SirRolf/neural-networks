@@ -80,7 +80,7 @@ I chose to work with Processing. The only con I could think of is really a pro i
 
 
 
-|maandag | dinsdag | woensdag | donderdag | vrijdag |
+| maandag | dinsdag | woensdag | donderdag | vrijdag |
 
 | --- | --- | --- | --- | --- |
 
