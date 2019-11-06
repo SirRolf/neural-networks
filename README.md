@@ -1,7 +1,6 @@
-# machine learning
+# Machine learning
 
-A machine learning program that will learn to move a dot to a goal.
-
+A program that learns dots to move to a goal by mutating children of the dot that was the best of the dots in the earlier generation.
 
 
 ## Software Analyse
