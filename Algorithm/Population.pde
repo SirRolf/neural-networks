@@ -94,13 +94,11 @@ class Population {
       }
     }
 
-    //should never get to this point
-
     return null;
   }
 
   //mutates all the brains of the babies
-  void mutateDemBabies() {
+  void mutateBabies() {
     for (int i = 1; i< dots.length; i++) {
       dots[i].brain.mutate();
     }
